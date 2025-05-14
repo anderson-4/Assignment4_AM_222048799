@@ -33,3 +33,4 @@ Include a schematic diagram or pin layout.
 Well-commented code for ESP32, Flask, and Flet.
 Use GitHub for version control (attach GitHub repository as part of your submission)
 
+![image](https://github.com/user-attachments/assets/a04d38da-c5ac-4ab7-9cc4-6e24aa98a7c1)
