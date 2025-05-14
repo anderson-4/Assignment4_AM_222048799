@@ -26,3 +26,10 @@ Live sensor readings (gas %, door status)
 Manual test alarm button
 Log view of previous alerts
 
+🧹 Technical Requirements
+ESP32 communicates with Flask backend
+Flet frontend must be interactive and fetch/send data via backend.
+Include a schematic diagram or pin layout.
+Well-commented code for ESP32, Flask, and Flet.
+Use GitHub for version control (attach GitHub repository as part of your submission)
+
